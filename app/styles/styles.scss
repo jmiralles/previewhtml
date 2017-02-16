@@ -1,0 +1,11 @@
+.editbox,.dynamicframe {
+  border: 1px solid #ccc;
+}
+
+.dynamicframe {
+  width: 467px;
+  height: 800px;
+  background: url(http://ionicframework.com/img/devices-sprite.jpg) center top no-repeat;
+  background-size: 467px;
+  margin: 0 auto;
+}
